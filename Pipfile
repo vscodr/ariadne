@@ -5,10 +5,13 @@ name = "pypi"
 
 [packages]
 ariadne = "*"
-uvicorn = "*"
 requests = "*"
+uvicorn = "*"
+watchdog = "*"
+asyncio = "*"
 
 [dev-packages]
+watchdog = "*"
 
 [requires]
 python_version = "3.8"
