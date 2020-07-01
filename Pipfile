@@ -9,6 +9,7 @@ requests = "*"
 uvicorn = "*"
 watchdog = "*"
 asyncio = "*"
+httpx = "*"
 
 [dev-packages]
 watchdog = "*"
